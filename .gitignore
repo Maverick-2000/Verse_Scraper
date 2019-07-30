@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+myaudio.mp3
+verseoftheday.jpg
+bin/
+include/
